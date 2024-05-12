@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#e6adf7</color>
+    <color name="perano">#A9B5ED</color>
+    <color name="lavendar_blue">#C4CDFA</color>
+    <color name="perfume">#C9A7DB</color>
+    <color name="accent">#A895B2</color>
+    <color name="ce_soir">#8F5798</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF5722</color>
+    <color name="dark_gray">#858585</color>
+    <color name="medium_gray">#D1D1D1</color>
+</resources>

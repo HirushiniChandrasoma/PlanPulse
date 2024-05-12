@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TMA_lab4</string>
+    <string-array name="priority_options">
+        <item>Low</item>
+        <item>Mid</item>
+        <item>High</item>
+    </string-array>
+
+</resources>
